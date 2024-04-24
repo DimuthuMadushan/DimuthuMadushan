@@ -7,16 +7,16 @@
 
 <br>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DimuthuMadushan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="DimuthuMadushan" /></p>
+
+<br>
+
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=DimuthuMadushan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="DimuthuMadushan" 
     bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DimuthuMadushan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="DimuthuMadushan" /></p>
 
 <br>
 
@@ -37,6 +37,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> </p>
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
