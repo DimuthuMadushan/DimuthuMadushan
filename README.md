@@ -40,15 +40,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dimuthu-madushan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/DimuthuMadushan/DimuthuMadushan/master/resources/icons/linked-in.svg"
+      src="https://github.com/DimuthuMadushan/DimuthuMadushan/blob/main/resources/icons/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/19341635/dimuthu-madushan" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/DimuthuMadushan/DimuthuMadushan/master/resources/icons/stack-overflow.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://twitter.com/D_i_m_u_t_h_u_M" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/DimuthuMadushan/DimuthuMadushan/master/resources/icons/icons8-twitterx.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/D_i_m_u_t_h_u_M" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/DimuthuMadushan/DimuthuMadushan/master/resources/icons/icons8-twitterx.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
