@@ -3,10 +3,6 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DimuthuMadushan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="DimuthuMadushan" /></p>
 
@@ -17,6 +13,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=DimuthuMadushan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="DimuthuMadushan" 
     bg_color=#808080/></p>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
 
