@@ -48,4 +48,7 @@
   <a href="https://twitter.com/D_i_m_u_t_h_u_M" target="blank"><img align="center"
       src="https://github.com/DimuthuMadushan/DimuthuMadushan/blob/main/resources/icons/twitter-x-seeklogo-3.svg"
       alt="adampithewan" height="50" width="60" /></a>
+  <a href="https://medium.com/@madushanwmd" target="blank"><img align="center"
+      src="https://github.com/DimuthuMadushan/DimuthuMadushan/blob/main/resources/icons/Medium-01.svg"
+      alt="adampithewan" height="30" width="40" /></a>
 </p>
