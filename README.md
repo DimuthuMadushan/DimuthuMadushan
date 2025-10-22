@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimuthu Madushan</h1>
-<h3 align="center">Software Engineer @WSO2</h3>
+<h3 align="center">Senior Software Engineer @WSO2</h3>
 
 <br>
 
